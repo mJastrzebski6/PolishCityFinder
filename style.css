@@ -1,0 +1,20 @@
+#matched-cities > div:hover{
+    background-color: #0f52ba;
+    color: white;
+}
+
+#matched-cities > div{
+    cursor: pointer;
+    border-color: #ced4da;
+}
+
+footer {
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  /* Height of the footer*/ 
+  height: 4rem;
+  background: grey;
+}
+
